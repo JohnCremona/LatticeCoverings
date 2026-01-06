@@ -5,7 +5,9 @@ minimal coverings of **Z**^2 by finite collections of lattices
 (subgroups of finite index), and coverings of **Z** by finite
 systems of congruences.
 
-To run the code one may use one of the following Jupyter notebooks:
+The code has been written and tested using SageMath version 10.8.  To
+run the code, one may use one of the following Jupyter notebooks,
+ensuring that the kernel used is this (or a later) version:
 
 1. Coverings_1_to_6.ipynb:  list details of all minimal lattice coverings
 of sizes up to 6.
