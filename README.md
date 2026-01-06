@@ -1,4 +1,4 @@
-# Code to accompany the paper "Lattice coverings and homogeneous covering congruences" by John Cremona and Peter Koymans
+# Code to accompany the paper *Lattice coverings and homogeneous covering congruences* by John Cremona and Peter Koymans
 
 This repository contains SageMath code to compute minimal and strongly
 minimal coverings of **Z**^2 by finite collections of lattices
