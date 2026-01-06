@@ -1,9 +1,8 @@
-# Code to accompany the paper "Lattice coverings and homogeneous
-covering congruences" by John Cremona and Peter Koymans
+# Code to accompany the paper "Lattice coverings and homogeneous covering congruences" by John Cremona and Peter Koymans
 
 This repository contains SageMath code to compute minimal and strongly
 minimal coverings of **Z**^2 by finite collections of lattices
-(subgroups of finite index), and coverings of $\mathbb{Z}$ by finite
+(subgroups of finite index), and coverings of **Z** by finite
 systems of congruences.
 
 To run the code one may use one of the following Jupyter notebooks:
